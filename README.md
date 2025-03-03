@@ -18,5 +18,5 @@ wkhtmltopdf adalah alat untuk mengonversi HTML menjadi PDF:
 sudo apt update
 sudo apt install wkhtmltopdf
 
-4. Install Dependencies dengan pip
+5. Install Dependencies dengan pip
 pip install Flask==2.2.3 requests==2.28.2 python-whois==0.8.0 pdfkit==0.6.1
