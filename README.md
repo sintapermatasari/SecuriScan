@@ -1,13 +1,13 @@
 1. Install dan Masuk ke Virtual Environment (venv)
 
-Install venv (jika belum terinstall)
-pip install virtualenv
-
-Buat Virtual Environment:
-python -m venv venv
-
-Aktifkan Virtual Environment:
-source venv/bin/activate
+  Install venv (jika belum terinstall)
+  pip install virtualenv
+  
+  Buat Virtual Environment:
+  python -m venv venv
+  
+  Aktifkan Virtual Environment:
+  source venv/bin/activate
 
 2. Clone Repository dari GitHub
 git clone https://github.com/sintapermatasari/SecuriScan.git
