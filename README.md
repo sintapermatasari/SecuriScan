@@ -1,4 +1,4 @@
-1. Install dan Masuk ke Virtual Environment (venv)
+1. Install dan Masuk ke Virtual Environment (venv),
 Install venv (jika belum terinstall) : pip install virtualenv, 
 Buat Virtual Environment: python -m venv venv, 
 Aktifkan Virtual Environment: source venv/bin/activate
@@ -7,7 +7,7 @@ Aktifkan Virtual Environment: source venv/bin/activate
 git clone https://github.com/sintapermatasari/SecuriScan.git, 
 cd SecuriScan
 
-3. Install wkhtmltopdf
+3. Install wkhtmltopdf, 
 wkhtmltopdf adalah alat untuk mengonversi HTML menjadi PDF:
 sudo apt update, 
 sudo apt install wkhtmltopdf
