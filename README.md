@@ -1,6 +1,6 @@
 1. Perbarui daftar paket sebelum melakukan instalasi: "sudo apt update"
-2. Instal Python 3 dan Virtual Environment : "sudo apt install python3.12-venv"
-3. Instal pip (Package Manager untuk Python) : "sudo apt install python3-pip"
+2. Instal pip (Package Manager untuk Python) : "sudo apt install python3-pip"
+3. Instal Python 3 dan Virtual Environment : "sudo apt install python3.12-venv" 
 4. Buat Virtual Environment: "python -m venv venv"
 5. Aktifkan Virtual Environment: "source venv/bin/activate"
 5. Clone Repository dari GitHub:
